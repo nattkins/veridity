@@ -1,9 +1,7 @@
 # Veridity Educational Credentials
 
 **Status**: ✅ **Active Development**
-**Repository**: [veridity-edu-credentials](https://github.com/your-username/veridity-edu-credentials)
-**Grant**: Ethereum Foundation - £50,000
-**Timeline**: 12 months
+**Repository**: [veridity-edu-credentials](https://github.com/nattkins/veridity-edu-credentials)
 
 ## Focus
 Blockchain-verified academic credentials using ENS, EAS, and IPFS with university partnerships.
@@ -38,4 +36,4 @@ Blockchain-verified academic credentials using ENS, EAS, and IPFS with universit
 - IPFS integration for credential storage
 - ENS subdomain management for universities
 
-[→ View Full Project Repository](https://github.com/your-username/veridity-edu-credentials)
+[→ View Full Project Repository](https://github.com/nattkins/veridity-edu-credentials)

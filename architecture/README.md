@@ -139,24 +139,3 @@ This outlines how the Veridity architecture is applied and expanded across diffe
 *   **Develop employer integration APIs**: Create tools for companies to easily verify applicant credentials.
 *   **Create cross-domain verification**: Enable verification of credentials spanning multiple sectors (e.g., a medical researcher's academic and professional credentials).
 *   **Build global recognition networks**: Facilitate the acceptance and verification of credentials internationally.
-
-This architecture ensures each domain builds on proven patterns while enabling sector-specific requirements and compliance, making Veridity a versatile and powerful infrastructure for institutional truth.
-IGNORE_WHEN_COPYING_START
-content_copy
-download
-Use code with caution.
-IGNORE_WHEN_COPYING_END
-
-Key additions and improvements:
-
-Purpose Statements: Each major section (ENS, EAS, NFT, IPFS) now begins with a "Purpose" statement explaining why that component is essential for Veridity.
-
-Description for Each Snippet: A "Description" section is added before each code block, briefly explaining what the code represents in the context of Veridity.
-
-Detailed Code Explanations: Each line or significant part of the code snippets (Solidity structs, interface functions, JSON fields) is now explained with inline comments or preceding text.
-
-Clarity on Reusability: The "Cross-Domain Reusability" section is enhanced to better distinguish between shared components and domain-specific customizations.
-
-Flow in Implementation Sequence: The sequence is described in terms of what each phase achieves for the architecture.
-
-This revision should make the technical underpinnings of Veridity much clearer to anyone reading the documentation.
