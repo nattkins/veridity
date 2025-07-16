@@ -122,19 +122,19 @@ Veridity's architecture is designed for efficient replication across various dom
 
 This outlines how the Veridity architecture is applied and expanded across different domains, starting with a foundational use case.
 
-### **Phase 1: Education (Current)**
+### **Current Phase: Education (Current)**
 *   **Establish core patterns**: Define and implement the fundamental ENS, EAS, IPFS, and NFT logic.
 *   **Validate institutional partnerships**: Work with universities to refine the academic credential process.
 *   **Create reusable smart contracts**: Develop generic contract templates that can be adapted.
 *   **Demonstrate regulatory compliance**: Ensure academic credential issuance meets relevant educational standards.
 
-### **Phase 2: Healthcare & Legal**
+### **TBD: Healthcare & Legal**
 *   **Adapt privacy and regulatory requirements**: Implement stricter data handling and compliance measures for sensitive data.
 *   **Extend verification methodologies**: Develop specific attestations for medical licenses, legal certifications, or document authenticity.
 *   **Build sector-specific partnerships**: Engage with hospitals, clinics, law firms, and bar associations.
 *   **Create specialized governance frameworks**: Define how corrections, appeals, and dispute resolutions work within these regulated fields.
 
-### **Phase 3: Professional & Industry**
+### **TBD: Professional & Industry**
 *   **Scale to multiple certification bodies**: Adapt the framework for various professional licenses (engineering, finance, trades).
 *   **Develop employer integration APIs**: Create tools for companies to easily verify applicant credentials.
 *   **Create cross-domain verification**: Enable verification of credentials spanning multiple sectors (e.g., a medical researcher's academic and professional credentials).
