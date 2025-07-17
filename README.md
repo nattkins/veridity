@@ -36,8 +36,6 @@ All Veridity domains share common patterns:
 Our first implementation focuses on academic credentials as the foundational use case:
 
 **Repository**: [veridity-edu-credentials](https://github.com/your-username/veridity-edu-credentials)
-**Grant**: Ethereum Foundation - £50,000 over 12 months
-**Partners**: Cardiff University, Imperial College London
 **Scope**: Blockchain-verified academic credentials with university partnerships
 
 ## 🚀 Development Timeline
