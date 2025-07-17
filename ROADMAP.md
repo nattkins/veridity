@@ -3,7 +3,7 @@
 ## 🎯 Current Status: Educational Credentials Foundation
 
 ### **Active Development (2025)**
-- **Grant Status**: Ethereum Foundation application submitted (£50,000)
+- **Grant Status**: Ethereum Foundation application submitted 
 - **Repository**: [veridity-edu-credentials](https://github.com/your-username/veridity-edu-credentials)
 - **Partners**: Cardiff University, Imperial College London
 - **Timeline**: 12 months to production-ready system
