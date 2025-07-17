@@ -8,9 +8,6 @@ Veridity provides blockchain-based verification infrastructure for institutions 
 
 ### **Current Development**
 - **🎓 [Education Credentials](https://github.com/your-username/veridity-edu-credentials)** - Academic verification using ENS/EAS/IPFS
-  - Status: **Grant application submitted** to Ethereum Foundation (£50,000)
-  - Partners: Cardiff University, Imperial College London
-  - Timeline: 12-month development cycle
 
 ### **Planned Domains**
 - **🏥 Healthcare Records** - Medical credential verification
