@@ -7,7 +7,7 @@
 Veridity provides blockchain-based verification infrastructure for institutions requiring cryptographic truth and correctable justice.
 
 ### **Current Development**
-- **🎓 [Education Credentials](https://github.com/your-username/veridity-edu-credentials)** - Academic verification using ENS/EAS/IPFS
+- **🎓 [Education Credentials](https://github.com/nattkins/veridity-edu-credentials)** - Academic verification using ENS/EAS/IPFS
 
 ### **Planned Domains**
 - **🏥 Healthcare Records** - Medical credential verification
@@ -35,7 +35,7 @@ All Veridity domains share common patterns:
 
 Our first implementation focuses on academic credentials as the foundational use case:
 
-**Repository**: [veridity-edu-credentials](https://github.com/your-username/veridity-edu-credentials)
+**Repository**: [veridity-edu-credentials](https://github.com/nattkins/veridity-edu-credentials)
 **Scope**: Blockchain-verified academic credentials with university partnerships
 
 ## 🚀 Development Timeline
@@ -57,9 +57,9 @@ Our first implementation focuses on academic credentials as the foundational use
 - Decentralized governance framework
 
 ## 🔗 Links
-- **Current Project**: [Educational Credentials](https://github.com/your-username/veridity-edu-credentials)
-- **Grant Application**: [Ethereum Foundation Submission](https://github.com/your-username/veridity-edu-credentials/blob/main/GRANT-APPLICATION.md)
-- **Technical Architecture**: [Complete Documentation](https://github.com/your-username/veridity-edu-credentials/blob/main/docs/ARCHITECTURE.md)
+- **Current Project**: [Educational Credentials](https://github.com/nattkins/veridity-edu-credentials)
+
+- **Technical Architecture**: [Complete Documentation](https://github.com/nattkins/veridity-edu-credentials/blob/main/docs/ARCHITECTURE.md)
 
 ## 📧 Contact
 **Status**: Active development on educational credentials
