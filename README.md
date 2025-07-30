@@ -6,10 +6,14 @@
 
 Veridity provides blockchain-based verification infrastructure for institutions requiring cryptographic truth and correctable justice.
 
+
+
 ### **Current Development**
-- **🎓 [Education Credentials](https://github.com/nattkins/veridity-edu-credentials)** - Academic verification using ENS/EAS/IPFS
+- **🎓(https://github.com/nattkins/veridity-edu-credentials) Academic/research patent protection Academic verification using ENS/EAS/IPFS
 
 ### **Planned Domains**
+
+- **📃 [Education Credentials](https://github.com/nattkins/veridity-edu-credentials)** - Academic/ technical certifcation verification using ENS/EAS/IPFS and Heritage NFT: Soul-bound tokens for ownership and corrections
 - **🏥 Healthcare Records** - Medical credential verification
 - **⚖️ Legal Documents** - Legal document authentication  
 - **🏢 Professional Licensing** - Professional certification verification
@@ -23,7 +27,7 @@ All Veridity domains share common patterns:
 - **ENS Delegation**: Hierarchical institutional truth
 - **EAS Attestations**: Correctable records with audit trails
 - **IPFS Storage**: Immutable documentation and methodology
-- **Heritage NFTs**: Soul-bound tokens for ownership and corrections
+
 
 ### **Universal Principles**
 1. **Institutional Autonomy**: Organizations control their own verification
@@ -31,12 +35,12 @@ All Veridity domains share common patterns:
 3. **Transparent Appeals**: Clear correction processes with full audit trails
 4. **Ecosystem Composability**: Reusable patterns across domains
 
-## 🎯 Current Focus: Educational Credentials
+## 🎯 Current Focus: Patent protectoin Credentials
 
-Our first implementation focuses on academic credentials as the foundational use case:
+Our first implementation focuses on patent protection as the foundational use case:
 
-**Repository**: [veridity-edu-credentials](https://github.com/nattkins/veridity-edu-credentials)
-**Scope**: Blockchain-verified academic credentials with university partnerships
+**Repository**: [veridity-rocrate-eth](https://github.com/nattkins/veridity-rocrate-eth)
+**Scope**: Blockchain-verified research metadata and patent protection 
 
 ## 🚀 Development Timeline
 
